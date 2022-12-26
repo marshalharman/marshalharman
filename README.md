@@ -1,9 +1,12 @@
 ### Hi there 👋 
-- :zap: I’m Harman Marshal Singh, a double major Computer Science and Mathematics undergraduate at BITS Pilani, India.<!-- - :computer: I'm an incoming SDE intern @ Amazon. -->
-- 🌏 I've interned at Amazon as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
-- 🌱 I’m interested in software development and machine learning.
-- 📫 Feel free to connect:
-  - :office: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
+:zap: I’m Harman Marshal Singh, a double major Computer Science and Mathematics undergraduate at BITS Pilani, India.
+
+🌏 I've interned at Amazon as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
+
+🌱 I’m interested in software development and machine learning.
+
+📫 Feel free to connect:
+ :office: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
 
 <!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=marshalharman&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
