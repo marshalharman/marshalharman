@@ -5,6 +5,8 @@
 
 🌱 I’m interested in software development and machine learning.
 
+💻 Technical Skills: Javascript, React, Java, C++, Python, Tensorflow
+
 📫 Feel free to connect:
  :office: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
 
