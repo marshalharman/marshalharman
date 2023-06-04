@@ -1,7 +1,7 @@
 ### Hi there 👋 
 :zap: I’m Harman Marshal Singh, a double major Computer Science and Mathematics undergraduate at BITS Pilani, India.
 
-🌏 I've interned at Amazon as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
+🌏 I've interned at Flipkart and Amazon as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
 
 🌱 I’m interested in software development and machine learning.
 
