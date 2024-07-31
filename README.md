@@ -1,11 +1,11 @@
 ### Hi there 👋 
-:zap: I’m Harman Marshal Singh, a double major Computer Science and Mathematics undergraduate at BITS Pilani, India.
+:zap: I’m Harman Marshal Singh, a software development engineer at Amazon. I'm a double major Computer Science and Mathematics graduate from BITS Pilani, India.
 
-🌏 I've interned at Flipkart and Amazon as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
+🌏 I've interned at Amazon and Flipkart as a software developer and at PayPal as a data science intern. I've also been a part of BITS Pilani's first Mars Rover Team.
 
 🌱 I’m interested in software development and machine learning.
 
-💻 Technical Skills: Javascript, React, Java, C++, Python, Tensorflow
+💻 Technical Skills: Javascript, Java, C++, Python, Tensorflow, React
 
 📫 Feel free to connect:
  :office: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
