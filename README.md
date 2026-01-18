@@ -1,11 +1,11 @@
 ### Hi there 👋 
 :zap: I’m Harman Marshal Singh, a software engineer and graduate of BITS Pilani, India, with a double major in Computer Science and Mathematics.
 
-🚀 Currently building [Deepdive](https://deepdive.so), an AI powered learning platform focused on organizing and exploring knowledge through branching conversational interfaces.
+🚀 Currently building [Deepdive](https://deepdive.so), an AI-powered learning platform focused on organizing and exploring knowledge through branching conversational interfaces.
 
-💻 Previously, I worked as a Software Development Engineer at Amazon, where I built scalable ML driven pipelines and real time data platforms. 
+💻 Previously, I worked as a Software Development Engineer at Amazon, where I built scalable ML-driven pipelines and real time data platforms. 
 
-🤖 I interned at Amazon and Flipkart as a software developer, and at PayPal as a data science intern. I also was part of BITS Pilani's first Mars Rover Team - Project Kratos.
+🤖 I interned at Amazon and Flipkart as a software developer, and at PayPal as a data science intern. I was also part of BITS Pilani's first Mars Rover Team, Project Kratos.
 
 🌱 My interests lie in machine learning systems, software engineering and human-centered AI tools.
 
