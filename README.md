@@ -9,8 +9,7 @@
 
 🌱 My interests lie in machine learning systems, software engineering and human-centered AI tools.
 
-📫 Feel free to connect:
- :office: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
+📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/harman-marshal-singh-400519170/)
 
 <!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=marshalharman&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
